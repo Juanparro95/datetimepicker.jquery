@@ -1,0 +1,2 @@
+# datetimepicker.jquery
+CDN
